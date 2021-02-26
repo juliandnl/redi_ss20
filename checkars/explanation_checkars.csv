@@ -1,0 +1,11 @@
+,0,1,2
+0,Variable,Description,Example
+1,Make,Car brand,Ford
+2,Model,The Model of the Car,Focus
+3,Year,The Year in which the car was build,2012
+4,Variant,"The car model version showing the PS, indicating the kind",2012
+5,Kms,The kilometers the cars has been driven until now,90000
+6,Price,The offered price for the car,10000
+7,Doors,How many doors the car has,4
+8,Kind,Type of car,Pick-Up
+9,Location,Where the car is located,Buenos Aires
