@@ -1,4 +1,4 @@
-,URL,Region,Condition,Rooms,Rent,Year_Construction,Space
+ID,URL,Region,Condition,Rooms,Rent,Year_Construction,Space
 0,https://www.immobilienscout24.de/expose/116051687,Mitte,first_time_use,4.0,2659,2019,117.2
 1,https://www.immobilienscout24.de/expose/115338103,Kreuzberg,first_time_use,1.0,1200,2020,29.33
 2,https://www.immobilienscout24.de/expose/116458710,Köpenick,well_kept,2.0,979,1997,83.61
